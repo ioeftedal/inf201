@@ -1,0 +1,186 @@
+Task 0:
+
+1. plass går til Titus. De kastet følgende tall: [6, 4, 1, 6], dette gjorde at de endte med en sum på: 17
+2. plass går til Sarah. De kastet følgende tall: [4, 1, 4, 4], dette gjorde at de endte med en sum på: 13
+3. plass går til Hanna. De kastet følgende tall: [5, 2, 2, 2], dette gjorde at de endte med en sum på: 11
+
+
+Task 1:
+
+Marked: * 
+Partikode: A 
+Totalt antall stemmer: 761152 
+Prosentandel stemmer: 26.19% 
+------------------------------
+Marked: * 
+Partikode: H 
+Totalt antall stemmer: 590736 
+Prosentandel stemmer: 20.32% 
+------------------------------
+Marked: * 
+Partikode: SP 
+Totalt antall stemmer: 392193 
+Prosentandel stemmer: 13.49% 
+------------------------------
+
+Marked: * 
+Partikode: A 
+Totalt antall stemmer: 761152 
+Prosentandel stemmer: 26.19% 
+------------------------------
+Marked: * 
+Partikode: H 
+Totalt antall stemmer: 590736 
+Prosentandel stemmer: 20.32% 
+------------------------------
+Marked: * 
+Partikode: SP 
+Totalt antall stemmer: 392193 
+Prosentandel stemmer: 13.49% 
+------------------------------
+Marked: * 
+Partikode: FRP 
+Totalt antall stemmer: 338129 
+Prosentandel stemmer: 11.63% 
+------------------------------
+Marked: * 
+Partikode: SV 
+Totalt antall stemmer: 216082 
+Prosentandel stemmer: 7.43% 
+------------------------------
+Marked: * 
+Partikode: RØDT 
+Totalt antall stemmer: 135613 
+Prosentandel stemmer: 4.67% 
+------------------------------
+Marked: * 
+Partikode: V 
+Totalt antall stemmer: 129453 
+Prosentandel stemmer: 4.45% 
+------------------------------
+
+Marked: * 
+Partikode: A 
+Totalt antall stemmer: 761152 
+Prosentandel stemmer: 26.19% 
+------------------------------
+Marked: * 
+Partikode: H 
+Totalt antall stemmer: 590736 
+Prosentandel stemmer: 20.32% 
+------------------------------
+Marked: * 
+Partikode: SP 
+Totalt antall stemmer: 392193 
+Prosentandel stemmer: 13.49% 
+------------------------------
+Marked: * 
+Partikode: FRP 
+Totalt antall stemmer: 338129 
+Prosentandel stemmer: 11.63% 
+------------------------------
+Marked: * 
+Partikode: SV 
+Totalt antall stemmer: 216082 
+Prosentandel stemmer: 7.43% 
+------------------------------
+Marked: * 
+Partikode: RØDT 
+Totalt antall stemmer: 135613 
+Prosentandel stemmer: 4.67% 
+------------------------------
+Marked: * 
+Partikode: V 
+Totalt antall stemmer: 129453 
+Prosentandel stemmer: 4.45% 
+------------------------------
+Partikode: MDG 
+Totalt antall stemmer: 111033 
+Prosentandel stemmer: 3.82% 
+------------------------------
+Partikode: KRF 
+Totalt antall stemmer: 110083 
+Prosentandel stemmer: 3.79% 
+------------------------------
+Partikode: DEMN 
+Totalt antall stemmer: 33326 
+Prosentandel stemmer: 1.15% 
+------------------------------
+Partikode: PP 
+Totalt antall stemmer: 18713 
+Prosentandel stemmer: 0.64% 
+------------------------------
+Partikode: BLANKE 
+Totalt antall stemmer: 17818 
+Prosentandel stemmer: 0.61% 
+------------------------------
+Partikode: KRISTNE 
+Totalt antall stemmer: 10179 
+Prosentandel stemmer: 0.35% 
+------------------------------
+Partikode: INP 
+Totalt antall stemmer: 9763 
+Prosentandel stemmer: 0.34% 
+------------------------------
+Partikode: PS 
+Totalt antall stemmer: 7526 
+Prosentandel stemmer: 0.26% 
+------------------------------
+Partikode: HELSE 
+Totalt antall stemmer: 6309 
+Prosentandel stemmer: 0.22% 
+------------------------------
+Partikode: PF 
+Totalt antall stemmer: 4908 
+Prosentandel stemmer: 0.17% 
+------------------------------
+Partikode: LIBS 
+Totalt antall stemmer: 4325 
+Prosentandel stemmer: 0.15% 
+------------------------------
+Partikode: FNB 
+Totalt antall stemmer: 3354 
+Prosentandel stemmer: 0.12% 
+------------------------------
+Partikode: AAN 
+Totalt antall stemmer: 2416 
+Prosentandel stemmer: 0.08% 
+------------------------------
+Partikode: PIR 
+Totalt antall stemmer: 2257 
+Prosentandel stemmer: 0.08% 
+------------------------------
+Partikode: NKP 
+Totalt antall stemmer: 303 
+Prosentandel stemmer: 0.01% 
+------------------------------
+Partikode: FI 
+Totalt antall stemmer: 275 
+Prosentandel stemmer: 0.01% 
+------------------------------
+Partikode: GENE 
+Totalt antall stemmer: 171 
+Prosentandel stemmer: 0.01% 
+------------------------------
+Partikode: KYST 
+Totalt antall stemmer: 167 
+Prosentandel stemmer: 0.01% 
+------------------------------
+Partikode: RN 
+Totalt antall stemmer: 96 
+Prosentandel stemmer: 0.00% 
+------------------------------
+Partikode: GT 
+Totalt antall stemmer: 88 
+Prosentandel stemmer: 0.00% 
+------------------------------
+
+
+Task 2:
+
+Character: '2'
+- ASCII representation: 00110010
+Character: '$'
+- ASCII representation: 00100100
+Character: 'å'
+- Not in ASCII range
