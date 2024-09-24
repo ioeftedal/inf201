@@ -1,0 +1,25 @@
+task 0:
+
+Name            Institution          Domain         
+--------------------------------------------------
+jonas.kusch     nmbu                 no             
+lena.scholzer   nmbu                 no.            
+jonas.kusch     gmail                domain         
+lena-scholzer   nmbu                 domain.
+
+
+task 1:
+
+        Friendships: 
+------------------------------
+         Ali - Per
+        Kari - Joe
+       James - Peter
+
+task 2:
+True
+True
+True
+False
+False
+False

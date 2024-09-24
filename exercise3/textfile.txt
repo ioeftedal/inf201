@@ -1,0 +1,4 @@
+The following document contains several email addresses. They all have the form example.name@institution.domain, example-name@institution.domain, or example_name@institution.domain. 
+
+Two examples with the nmbu domain are jonas.kusch@nmbu.no or lena.scholzer@nmbu.no.
+Two examples with a generic domain are jonas.kusch@gmail.domain or lena-scholzer@nmbu.domain.
