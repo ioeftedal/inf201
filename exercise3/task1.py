@@ -1,22 +1,23 @@
 import re
 
-text = "Ali and Per are friends. Kari and Joe know each other. James has known Peter since school days."
+# Compile the regex pattern once to ensure efficiency
+find_name = re.compile(r"^([A-Z][a-z]+).*?([A-Z][a-z]+)")
+
+sentences = [
+    "Ali and Per are friends.",
+    "Kari and Joe know each other.",
+    "James has known Peter since school days.",
+]
+
+
+# Header
 line = "-" * 30
-
-names = []
-
-
-# Split every word based on whitespace character
-words = re.split("\s", text)
-
-# For every word check if it contains a capital letter
-for word in words:
-    if re.match("[A-Z]", word):
-        # If it does contain a capital letter, append this into the names list
-        names.append(word)
-
-
-# Pretty print
 print(f"\n\tFriendships: \n{line}")
-for i in range(0, len(names), 2):
-    print(f"{names[i]:>12} - {names[i+1]}")
+
+for sentence in sentences:
+    # Find the match using the compiled regex
+    match = find_name.match(sentence)
+    if match:
+        # Add the names to groups and print them
+        name1, name2 = match.groups()
+        print(f"{name1:>12} - {name2}")

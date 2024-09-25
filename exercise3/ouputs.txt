@@ -17,9 +17,9 @@ task 1:
        James - Peter
 
 task 2:
-True
-True
-True
-False
-False
-False
+Access granted
+Access granted
+Access granted
+Invalid password
+Invalid password
+Invalid password
