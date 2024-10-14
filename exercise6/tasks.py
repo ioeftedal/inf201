@@ -1,3 +1,12 @@
+"""
+Jørgen Asmundvaag
+jorgen.asmundvaag@nmbu.no
+
+Ivar Eftedal
+ivar.odegardstuen.eftedal@nmbu.no
+"""
+
+
 class Person:
     def __init__(self, name: str, age: int, email: str) -> None:
         self.name = name
@@ -15,13 +24,13 @@ class Student(Person):
         age: int,
         email: str,
         student_id: int,
-        courses=[],
-        grades={},
+        courses=None,
+        grades=None,
     ):
         super().__init__(name, age, email)
         self.student_id = student_id
-        self.courses = courses
-        self.grades = grades
+        self.courses = []
+        self.grades = {}
 
     def enroll_in_course(self, course: str):
         self.courses.append(course)
@@ -34,6 +43,7 @@ class Student(Person):
 
     def get_grades(self):
         for key, values in self.grades.items():
+            print(f"{self.name} has got the following grades: ")
             print(f"Subject: {key}, Grades: {values}")
 
 
@@ -67,29 +77,39 @@ ivar = Student("Ivar", 20, "ivar.eftedal@icloud.com", 1)
 jorgen = Student("Jørgen", 19, "jorgen@icloud.com", 3)
 christopher = Student("Christopher", 20, "christopher@icloud.com", 2)
 ludvik = Student("Ludvik", 21, "ludvik@icloud.com", 4)
+sebastian = Student("Sebastian", 25, "sebastian@icloud.com", 5)
 
 john = Teacher("John", 40, "john.johnsen@gmail.com", "Math")
 habib = Teacher("Habib", 45, "habib@gmail.com", "IT")
 ola = Teacher("Ola", 60, "ola@gmail.com", "English")
 
-# ivar.get_details()
-# jorgen.get_details()
-# christopher.get_details()
-# ludvik.get_details()
-#
-# john.get_details()
-# habib.get_details()
-# ola.get_details()
+ivar.get_details()
+jorgen.get_details()
+christopher.get_details()
+ludvik.get_details()
+sebastian.get_details()
+print()
+
+john.get_details()
+habib.get_details()
+ola.get_details()
+print()
 
 english = Course("English", 3)
 english.add_student(ivar)
 english.add_student(jorgen)
 english.add_student(christopher)
+print()
 
 ola.assign_grade(ivar, 6)
-ola.assign_grade(ivar, 6)
+ola.assign_grade(jorgen, 6)
 ola.assign_grade(ivar, 2)
-ola.assign_grade(ivar, 5)
+ola.assign_grade(jorgen, 5)
+print()
+
 ivar.get_grades()
+jorgen.get_grades()
+print()
 
 english.list_students()
+print()
