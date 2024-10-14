@@ -1,0 +1,27 @@
+Task 1:
+
+Name: Ivar            Age: 20    Email: ivar.eftedal@icloud.com
+Name: Jørgen          Age: 19    Email: jorgen@icloud.com
+Name: Christopher     Age: 20    Email: christopher@icloud.com
+Name: Ludvik          Age: 21    Email: ludvik@icloud.com
+Name: Sebastian       Age: 25    Email: sebastian@icloud.com
+
+Name: John            Age: 40    Email: john.johnsen@gmail.com
+Name: Habib           Age: 45    Email: habib@gmail.com
+Name: Ola             Age: 60    Email: ola@gmail.com
+
+
+Ivar assigned the grade: 6!
+Jørgen assigned the grade: 6!
+Ivar assigned the grade: 2!
+Jørgen assigned the grade: 5!
+
+Ivar has got the following grades: 
+Subject: English, Grades: [6, 2]
+Jørgen has got the following grades: 
+Subject: English, Grades: [6, 5]
+
+Students enrolled in English: 
+Name: Ivar            Age: 20    Email: ivar.eftedal@icloud.com
+Name: Jørgen          Age: 19    Email: jorgen@icloud.com
+Name: Christopher     Age: 20    Email: christopher@icloud.com
