@@ -1,0 +1,24 @@
+Task 0:
+Current working directory is /Users/ivareftedal/school/inf201/exercise4.
+Data directory created successfully. Absolute path is: /Users/ivareftedal/school/inf201/exercise4/test/data
+Output directory created successfully. Absolute path is: /Users/ivareftedal/school/inf201/exercise4/test/ouput
+
+Task 1:
+exercise_2/Ole
+exercise_2/Sarah
+test/ouput
+test/data
+exercise_3b/Ole
+exercise_3b/Sarah
+exercise_4b/Ole
+exercise_4b/Sarah
+exercise_1/Ole
+exercise_1/Sarah
+exercise_3a/Ole
+exercise_3a/Sarah
+exercise_4a/Ole
+exercise_4a/Sarah
+
+Task 2:
+python list: 5.248585939407349
+Numpy array: 0.055313825607299805

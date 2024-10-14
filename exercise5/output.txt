@@ -1,0 +1,17 @@
+Task 1:
+Mean of matrix: 49.50820684
+Variance of matrix: 833.3069157711637
+Sum of matrix: 1237705171
+Matrix times multiplier: 
+[[122 196   4 ...  24 164 164]
+ [168 120   0 ...  10  84 180]
+ [ 90   2 186 ... 154  50  20]
+ ...
+ [162 140 128 ...  44  42 170]
+ [ 92  50 188 ... 152 108 196]
+ [ 54  22  86 ... 172  30 154]]
+
+Task 2:
+Dominant eigenvalue (approximation): -3.9923108440868287
+Dominant eigenvalue (numpy): -3.996206657474084
+
